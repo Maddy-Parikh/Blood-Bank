@@ -6,14 +6,19 @@ And i have hosted the website using the azure bot service.
 Test my project(my website link): https://icy-bay-068d63010.1.azurestaticapps.net
 
 Some of the images scrrenshots take while creating bot chat(Steps followed)
+
+
 1.create the bot service
+
 ![photo5118571303173990945](https://user-images.githubusercontent.com/67404670/170071569-d6150407-5449-496f-9774-eba0f7812f0d.jpg)
 
 
 2.Deployed the bot service
+
 ![photo5118571303173990946](https://user-images.githubusercontent.com/67404670/170071133-e5f7dcdc-b9f3-42e3-bbb9-91a7957d52ce.jpg)
 
 3. Adding QnA pair to knowledge base
+4. 
 ![photo5118571303173990947](https://user-images.githubusercontent.com/67404670/170071313-b2509795-5248-4307-a7b4-82f660ccfafb.jpg)
 
 4. Get the embed code and security key
@@ -22,8 +27,10 @@ Some of the images scrrenshots take while creating bot chat(Steps followed)
 
 
 5. Creating the web app service
+6. 
 ![Screenshot 2022-05-24 193914](https://user-images.githubusercontent.com/67404670/170072339-3c830670-6237-4faa-a814-7077653f2dd4.png)
 
 
 6. Successfully deployed the website. 
+7. 
 ![Screenshot 2022-05-24 194135](https://user-images.githubusercontent.com/67404670/170072368-bf1b6012-b24b-484f-b2af-614492c161a8.png)
