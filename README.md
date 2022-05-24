@@ -22,7 +22,8 @@ Some of the images scrrenshots take while creating bot chat(Steps followed)
 
 
 5. Creating the web app service
-![static web app](https://user-images.githubusercontent.com/67404670/170072019-0217f323-3688-4ceb-bd4e-a9bf2b580631.png)
+![Screenshot 2022-05-24 193914](https://user-images.githubusercontent.com/67404670/170072339-3c830670-6237-4faa-a814-7077653f2dd4.png)
+
 
 6. Successfully deployed the website. 
-![successfull deployed](https://user-images.githubusercontent.com/67404670/170072121-9d535a6b-c9ca-41e9-82ad-63f03a327bbb.png)
+![Screenshot 2022-05-24 194135](https://user-images.githubusercontent.com/67404670/170072368-bf1b6012-b24b-484f-b2af-614492c161a8.png)
